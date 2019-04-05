@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Tony Yiu
+tagline:             Tony's Data Blog
+url:                 http://yiuhyuk.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Tony Yiu
+  url:
+  email:             yiuhyuk@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/yiuhyuk
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
