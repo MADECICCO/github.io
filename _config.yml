@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/yiuhyuk
+  repo:              https://github.com/yiuhyuk/github.io
 
 # Gems
 gems:
